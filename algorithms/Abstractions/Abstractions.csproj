@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="List\" />
+    <Folder Include="List\Interfaces\" />
+    <Folder Include="List\Models\" />
+    <Folder Include="String\" />
+    <Folder Include="String\Interfaces\" />
+    <Folder Include="Graph\" />
+    <Folder Include="Graph\Interfaces\" />
+    <Folder Include="Graph\Models\" />
+  </ItemGroup>
+</Project>

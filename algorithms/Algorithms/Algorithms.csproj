@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="MergeSort\" />
+    <Folder Include="MergeSort\Interfaces\" />
+    <Folder Include="InsertionSort\" />
+    <Folder Include="SelectionSort\" />
+    <Folder Include="HeapSort\" />
+    <Folder Include="HeapSort\Interfaces\" />
+    <Folder Include="QuickSort\" />
+    <Folder Include="QuickSort\Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Algorithms.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Abstractions\Abstractions.csproj" />
+  </ItemGroup>
+</Project>
