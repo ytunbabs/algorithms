@@ -7,5 +7,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Algorithms\Algorithms.csproj" />
+    <ProjectReference Include="..\Common\CommonAlgorithms.csproj" />
   </ItemGroup>
 </Project>

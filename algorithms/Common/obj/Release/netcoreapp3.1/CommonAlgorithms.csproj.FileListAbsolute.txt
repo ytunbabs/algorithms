@@ -1,0 +1,13 @@
+/Users/owo/repo/algorithms/Algorithms/Common/bin/Release/netcoreapp3.1/CommonAlgorithms.deps.json
+/Users/owo/repo/algorithms/Algorithms/Common/bin/Release/netcoreapp3.1/CommonAlgorithms.dll
+/Users/owo/repo/algorithms/Algorithms/Common/bin/Release/netcoreapp3.1/CommonAlgorithms.pdb
+/Users/owo/repo/algorithms/Algorithms/Common/bin/Release/netcoreapp3.1/Abstractions.dll
+/Users/owo/repo/algorithms/Algorithms/Common/bin/Release/netcoreapp3.1/Abstractions.pdb
+/Users/owo/repo/algorithms/Algorithms/Common/obj/Release/netcoreapp3.1/CommonAlgorithms.csproj.AssemblyReference.cache
+/Users/owo/repo/algorithms/Algorithms/Common/obj/Release/netcoreapp3.1/CommonAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/owo/repo/algorithms/Algorithms/Common/obj/Release/netcoreapp3.1/CommonAlgorithms.AssemblyInfoInputs.cache
+/Users/owo/repo/algorithms/Algorithms/Common/obj/Release/netcoreapp3.1/CommonAlgorithms.AssemblyInfo.cs
+/Users/owo/repo/algorithms/Algorithms/Common/obj/Release/netcoreapp3.1/CommonAlgorithms.csproj.CoreCompileInputs.cache
+/Users/owo/repo/algorithms/Algorithms/Common/obj/Release/netcoreapp3.1/CommonAlgorithms.csproj.CopyComplete
+/Users/owo/repo/algorithms/Algorithms/Common/obj/Release/netcoreapp3.1/CommonAlgorithms.dll
+/Users/owo/repo/algorithms/Algorithms/Common/obj/Release/netcoreapp3.1/CommonAlgorithms.pdb

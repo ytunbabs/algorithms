@@ -1,0 +1,15 @@
+/Users/owo/repo/algorithms/Algorithms/Common/bin/Debug/net5.0/CommonAlgorithms.deps.json
+/Users/owo/repo/algorithms/Algorithms/Common/bin/Debug/net5.0/CommonAlgorithms.dll
+/Users/owo/repo/algorithms/Algorithms/Common/bin/Debug/net5.0/ref/CommonAlgorithms.dll
+/Users/owo/repo/algorithms/Algorithms/Common/bin/Debug/net5.0/CommonAlgorithms.pdb
+/Users/owo/repo/algorithms/Algorithms/Common/bin/Debug/net5.0/Abstractions.dll
+/Users/owo/repo/algorithms/Algorithms/Common/bin/Debug/net5.0/Abstractions.pdb
+/Users/owo/repo/algorithms/Algorithms/Common/obj/Debug/net5.0/CommonAlgorithms.csproj.AssemblyReference.cache
+/Users/owo/repo/algorithms/Algorithms/Common/obj/Debug/net5.0/CommonAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/owo/repo/algorithms/Algorithms/Common/obj/Debug/net5.0/CommonAlgorithms.AssemblyInfoInputs.cache
+/Users/owo/repo/algorithms/Algorithms/Common/obj/Debug/net5.0/CommonAlgorithms.AssemblyInfo.cs
+/Users/owo/repo/algorithms/Algorithms/Common/obj/Debug/net5.0/CommonAlgorithms.csproj.CoreCompileInputs.cache
+/Users/owo/repo/algorithms/Algorithms/Common/obj/Debug/net5.0/CommonAlgorithms.csproj.CopyComplete
+/Users/owo/repo/algorithms/Algorithms/Common/obj/Debug/net5.0/CommonAlgorithms.dll
+/Users/owo/repo/algorithms/Algorithms/Common/obj/Debug/net5.0/ref/CommonAlgorithms.dll
+/Users/owo/repo/algorithms/Algorithms/Common/obj/Debug/net5.0/CommonAlgorithms.pdb

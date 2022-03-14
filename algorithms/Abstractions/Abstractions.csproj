@@ -13,5 +13,11 @@
     <Folder Include="Graph\" />
     <Folder Include="Graph\Interfaces\" />
     <Folder Include="Graph\Models\" />
+    <Folder Include="Stack\" />
+    <Folder Include="Stack\Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Stack\" />
+    <None Remove="Stack\Interfaces\" />
   </ItemGroup>
 </Project>

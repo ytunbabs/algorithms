@@ -6,6 +6,7 @@ using Algorithms.SelectionSort;
 using Abstractions;
 using Abstractions.Models;
 using Algorithms.QuickSort.Interfaces;
+using CommonAlgorithms;
 
 namespace Start
 {
@@ -13,6 +14,14 @@ namespace Start
     {
         static void Main(string[] args)
         {
+
+            //infix operation:
+
+
+            string expression = "(2*(((9-1)/4)+3))";
+            InfixCalculation infixCalculator = new InfixCalculation();
+            var calcValue = infixCalculator.Calculate(expression);
+
             Console.WriteLine("Please enter 10 names");
             string[] sortList = new string[10];
 

@@ -1,0 +1,9 @@
+/Users/owo/repo/algorithms/Algorithms/Abstractions/bin/Release/netcoreapp3.1/Abstractions.deps.json
+/Users/owo/repo/algorithms/Algorithms/Abstractions/bin/Release/netcoreapp3.1/Abstractions.dll
+/Users/owo/repo/algorithms/Algorithms/Abstractions/bin/Release/netcoreapp3.1/Abstractions.pdb
+/Users/owo/repo/algorithms/Algorithms/Abstractions/obj/Release/netcoreapp3.1/Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/owo/repo/algorithms/Algorithms/Abstractions/obj/Release/netcoreapp3.1/Abstractions.AssemblyInfoInputs.cache
+/Users/owo/repo/algorithms/Algorithms/Abstractions/obj/Release/netcoreapp3.1/Abstractions.AssemblyInfo.cs
+/Users/owo/repo/algorithms/Algorithms/Abstractions/obj/Release/netcoreapp3.1/Abstractions.csproj.CoreCompileInputs.cache
+/Users/owo/repo/algorithms/Algorithms/Abstractions/obj/Release/netcoreapp3.1/Abstractions.dll
+/Users/owo/repo/algorithms/Algorithms/Abstractions/obj/Release/netcoreapp3.1/Abstractions.pdb

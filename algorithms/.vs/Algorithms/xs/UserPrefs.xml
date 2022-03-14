@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{E2B60E6E-2291-4F61-80FB-750921CEE0B0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Start PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Abstractions/Stack/Stack.cs">
+    <Files>
+      <File FileName="CommonAlgorithmsTest/InfixCalculator.cs" Line="15" Column="68" />
+      <File FileName="Common/InfixCalculation.cs" Line="23" Column="1" />
+      <File FileName="Start/Program.cs" Line="23" Column="1" />
+      <File FileName="Abstractions/Stack/Stack.cs" Line="36" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Algorithms" expanded="True">
+            <Node name="Abstractions" expanded="True">
+              <Node name="Stack" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="Stack.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="CommonAlgorithms" expanded="True" />
+            <Node name="CommonAlgorithmsTest" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="Start" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Algorithms" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/owo/repo/algorithms/Algorithms/Common/InfixCalculation.cs" relfile="Common/InfixCalculation.cs" line="64" column="1" />
+      <Breakpoint file="/Users/owo/repo/algorithms/Algorithms/Common/InfixCalculation.cs" relfile="Common/InfixCalculation.cs" line="17" column="1" />
+      <Breakpoint file="/Users/owo/repo/algorithms/Algorithms/Common/InfixCalculation.cs" relfile="Common/InfixCalculation.cs" line="23" column="1" />
+      <Breakpoint file="/Users/owo/repo/algorithms/Algorithms/Common/InfixCalculation.cs" relfile="Common/InfixCalculation.cs" line="22" column="1" />
+      <Breakpoint file="/Users/owo/repo/algorithms/Algorithms/CommonAlgorithmsTest/InfixCalculator.cs" relfile="CommonAlgorithmsTest/InfixCalculator.cs" line="11" column="1" />
+      <Breakpoint file="/Users/owo/repo/algorithms/Algorithms/CommonAlgorithmsTest/InfixCalculator.cs" relfile="CommonAlgorithmsTest/InfixCalculator.cs" line="15" column="1" />
+      <Breakpoint file="/Users/owo/repo/algorithms/Algorithms/CommonAlgorithmsTest/InfixCalculator.cs" relfile="CommonAlgorithmsTest/InfixCalculator.cs" line="7" column="1" />
+      <Breakpoint file="/Users/owo/repo/algorithms/Algorithms/Start/Program.cs" relfile="Start/Program.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

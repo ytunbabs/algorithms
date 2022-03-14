@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Start/1.0.0": {
+        "dependencies": {
+          "Algorithms": "1.0.0",
+          "CommonAlgorithms": "1.0.0"
+        },
+        "runtime": {
+          "Start.dll": {}
+        }
+      },
+      "Abstractions/1.0.0": {
+        "runtime": {
+          "Abstractions.dll": {}
+        }
+      },
+      "Algorithms/1.0.0": {
+        "dependencies": {
+          "Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "Algorithms.dll": {}
+        }
+      },
+      "CommonAlgorithms/1.0.0": {
+        "dependencies": {
+          "Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "CommonAlgorithms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Start/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Algorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommonAlgorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+7E5tjC4WvsnHn1fQt1hAM59t0TLuI+ZK9mmEwn4ZXHnW55Y5wVIkD01UuSzhCgObT9JDuWLoJ243LbcRX15yw==",
+  "success": true,
+  "projectFilePath": "/Users/owo/repo/algorithms/Algorithms/Start/Start.csproj",
+  "expectedPackageFiles": [
+    "/Users/owo/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.23/microsoft.netcore.app.host.osx-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

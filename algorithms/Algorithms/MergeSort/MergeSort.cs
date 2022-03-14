@@ -3,13 +3,13 @@ using Algorithms.MergeSort.Interfaces;
 
 namespace Algorithms.MergeSort
 {
-    public class MergeSort<T> : ISort
+    public class MergeSort<T> : ISort<T>
     {
         public MergeSort()
         {
         }
 
-        public void Sort<T>(T[] sortList, int start, int end)
+        public void Sort(T[] sortList, int start, int end)
         {
             if(start < end)
             {
@@ -17,11 +17,11 @@ namespace Algorithms.MergeSort
                 Sort(sortList, start, mid);
                 int secondMid = (start + end) % 2 == 0 ? mid : mid + 1;
                 Sort(sortList, secondMid, end);
-                Merge<T>(sortList, start,mid, end);
+                Merge(sortList, start,mid, end);
             }
         }
 
-        public void Merge<T>(T[] sortList, int start, int mid, int end)
+        public void Merge(T[] sortList, int start, int mid, int end)
         {
             int l1 = (mid - start);
             int l2 = end - mid;
