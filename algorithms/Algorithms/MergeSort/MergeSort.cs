@@ -29,24 +29,25 @@ namespace Algorithms.MergeSort
             T[] firstArray = new T[l1];
             T[] secondArray = new T[l2];
 
-            for(int i=0; i<l1; i++)
+            for(int i=start; i<l1+start; i++)
             {
-                firstArray[i] = sortList[start + i];
+                firstArray[i-start] = sortList[i];
             }
 
-            for (int i = 0; i < l2; i++)
+            for (int i = mid; i < l2 + mid; i++)
             {
-                secondArray[i] = sortList[mid + i];
+                secondArray[i-mid] = sortList[i];
             }
 
 
             int ia = 0;
             int ib = 0;
 
-            for(int i=start; i<end; i++)
+            for (int i = start; i < end; i++)
             {
                 if (firstArray.Length > ia && secondArray.Length > ib)
                 {
+
                     if (string.Compare(firstArray[ia].ToString(), secondArray[ib].ToString(), StringComparison.InvariantCulture) < 0)
 
                     {
@@ -59,18 +60,15 @@ namespace Algorithms.MergeSort
                         ib += 1;
                     }
                 }
-                else if(firstArray.Length > ia)
+                else if (firstArray.Length > ia)
                 {
-                    sortList[i] = firstArray[ia];
-                    ia += 1;
+                    sortList[i] = firstArray[ia++];
                 }
-                else
+                else if(secondArray.Length > ib)
                 {
                     sortList[i] = secondArray[ib];
-                    ib += 1;
                 }
             }
-
 
         }
     }

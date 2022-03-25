@@ -1,33 +1,44 @@
 ﻿<Properties StartupConfiguration="{E2B60E6E-2291-4F61-80FB-750921CEE0B0}|Default">
   <MonoDevelop.Ide.ItemProperties.Start PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Abstractions/Stack/Stack.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Abstractions/Queue/Interfaces/IQueue.cs">
     <Files>
-      <File FileName="CommonAlgorithmsTest/InfixCalculator.cs" Line="15" Column="68" />
-      <File FileName="Common/InfixCalculation.cs" Line="23" Column="1" />
-      <File FileName="Start/Program.cs" Line="23" Column="1" />
-      <File FileName="Abstractions/Stack/Stack.cs" Line="36" Column="14" />
+      <File FileName="Abstractions/Graph/Models/GraphNode.cs" Line="11" Column="16" />
+      <File FileName="Abstractions/Graph/Graph.cs" Line="172" Column="45" />
+      <File FileName="Start/Program.cs" Line="44" Column="13" />
+      <File FileName="Abstractions/Graph/Models/TreeNode.cs" Line="1" Column="1" />
+      <File FileName="Common/InfixCalculation.cs" Line="8" Column="11" />
+      <File FileName="Algorithms/QuickSort/QuickSort.cs" Line="1" Column="1" />
+      <File FileName="Algorithms/MergeSort/MergeSort.cs" Line="69" Column="46" />
+      <File FileName="Abstractions/Queue/Queue.cs" Line="1" Column="1" />
+      <File FileName="Abstractions/List/Interfaces/IListContract.cs" Line="1" Column="1" />
+      <File FileName="Abstractions/Queue/Interfaces/IQueue.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Algorithms" expanded="True">
             <Node name="Abstractions" expanded="True">
-              <Node name="Stack" expanded="True">
+              <Node name="List" expanded="True">
                 <Node name="Interfaces" expanded="True" />
-                <Node name="Stack.cs" selected="True" />
+              </Node>
+              <Node name="Queue" expanded="True">
+                <Node name="Interfaces" expanded="True">
+                  <Node name="IQueue.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
-            <Node name="CommonAlgorithms" expanded="True" />
-            <Node name="CommonAlgorithmsTest" expanded="True">
-              <Node name="Dependencies" expanded="True" />
+            <Node name="Algorithms" expanded="True">
+              <Node name="HeapSort" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="InsertionSort" expanded="True" />
+              <Node name="MergeSort" expanded="True" />
+              <Node name="QuickSort" expanded="True" />
+              <Node name="SelectionSort" expanded="True" />
             </Node>
+            <Node name="CommonAlgorithms" expanded="True" />
             <Node name="Start" expanded="True" />
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Algorithms" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
@@ -36,14 +47,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/owo/repo/algorithms/Algorithms/Common/InfixCalculation.cs" relfile="Common/InfixCalculation.cs" line="64" column="1" />
-      <Breakpoint file="/Users/owo/repo/algorithms/Algorithms/Common/InfixCalculation.cs" relfile="Common/InfixCalculation.cs" line="17" column="1" />
-      <Breakpoint file="/Users/owo/repo/algorithms/Algorithms/Common/InfixCalculation.cs" relfile="Common/InfixCalculation.cs" line="23" column="1" />
-      <Breakpoint file="/Users/owo/repo/algorithms/Algorithms/Common/InfixCalculation.cs" relfile="Common/InfixCalculation.cs" line="22" column="1" />
-      <Breakpoint file="/Users/owo/repo/algorithms/Algorithms/CommonAlgorithmsTest/InfixCalculator.cs" relfile="CommonAlgorithmsTest/InfixCalculator.cs" line="11" column="1" />
-      <Breakpoint file="/Users/owo/repo/algorithms/Algorithms/CommonAlgorithmsTest/InfixCalculator.cs" relfile="CommonAlgorithmsTest/InfixCalculator.cs" line="15" column="1" />
-      <Breakpoint file="/Users/owo/repo/algorithms/Algorithms/CommonAlgorithmsTest/InfixCalculator.cs" relfile="CommonAlgorithmsTest/InfixCalculator.cs" line="7" column="1" />
-      <Breakpoint file="/Users/owo/repo/algorithms/Algorithms/Start/Program.cs" relfile="Start/Program.cs" line="23" column="1" />
+      <Breakpoint enabled="false" file="/Users/powowa-777/repo/algorithms/algorithms/Abstractions/Graph/Graph.cs" relfile="Abstractions/Graph/Graph.cs" line="90" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

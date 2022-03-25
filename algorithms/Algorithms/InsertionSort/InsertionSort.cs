@@ -1,13 +1,13 @@
 ﻿using System;
 namespace Algorithms.InsertionSort
 {
-    public class InsertionSort<T> : ISort
+    public class InsertionSort<T> : ISort<T>
     {
         public InsertionSort()
         {
         }
 
-        public void Sort<T>(T[] sortList)
+        public void Sort(T[] sortList)
         {
             for(int i=1; i<sortList.Length; i++)
             {

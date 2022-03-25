@@ -3,15 +3,15 @@ using Algorithms.HeapSort.Interfaces;
 
 namespace Algorithms.HeapSort
 {
-    public class HeapSort<T> : ISort
+    public class HeapSort<T> : ISort<T>
     {
         public HeapSort()
         {
         }
 
-        public void Sort<T>(T[] sortList, int heapSize)
+        public void Sort(T[] sortList)
         {
-            BuildMaxHeap(sortList, heapSize);
+            int heapSize = BuildMaxHeap(sortList);
 
             for(int i=sortList.Length-1; i>0; i--)
             {
@@ -24,33 +24,35 @@ namespace Algorithms.HeapSort
             }
         }
 
-        void BuildMaxHeap<T>(T[] sortList, int heapSize)
+        int BuildMaxHeap(T[] sortList)
         {
             
-            int heapLength = (sortList.Length/2) % 2 == 0 ? sortList.Length/2 : sortList.Length/2 + 1;
+            int heapSize = (sortList.Length / 2)-1;
 
+            //int heapSize = sortList.Length / 2;
 
-
-            for(int i=heapLength; i>=0; i--)
+            for(int i=heapSize; i>=0; i--)
             {
                 MaxHeapify(sortList, i, heapSize);
             }
+
+            return heapSize;
         }
 
-        void MaxHeapify<T>(T[] sortList, int index, int heapSize)
+        void MaxHeapify(T[] sortList, int index, int heapSize)
         {
-            int left = 2 * index;
-            int right = (2 * index) + 1;
-            int largest = -1;
+            int left = 2 * index + 1;
+            int right = (2 * index) + 2;
+            int largest = index;
 
-            if(left <= heapSize && string.Compare(sortList[index].ToString(), sortList[left].ToString(), StringComparison.InvariantCulture) < 0){
+            if(left < heapSize && string.Compare(sortList[index].ToString(), sortList[left].ToString(), StringComparison.InvariantCulture) < 0){
                 largest = left;
             }
             else
             {
                 largest = index;
             }
-            if (right <= heapSize  && string.Compare(sortList[largest].ToString(), sortList[right].ToString(), StringComparison.InvariantCulture) < 0)
+            if (right < heapSize && string.Compare(sortList[largest].ToString(), sortList[right].ToString(), StringComparison.InvariantCulture) < 0)
             {
                 largest = right;
             }

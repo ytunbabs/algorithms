@@ -7,6 +7,7 @@ using Abstractions;
 using Abstractions.Models;
 using Algorithms.QuickSort.Interfaces;
 using CommonAlgorithms;
+using Abstractions.Graph;
 
 namespace Start
 {
@@ -18,27 +19,28 @@ namespace Start
             //infix operation:
 
 
-            string expression = "(2*(((9-1)/4)+3))";
-            InfixCalculation infixCalculator = new InfixCalculation();
-            var calcValue = infixCalculator.Calculate(expression);
+            //string expression = "(2*(((9-1)/4)+3))";
+            //InfixCalculation infixCalculator = new InfixCalculation();
+            //var calcValue = infixCalculator.Calculate(expression);
 
             Console.WriteLine("Please enter 10 names");
             string[] sortList = new string[10];
 
-            for (int i = 0; i <10; i++)
+            for (int i = 0; i < 10; i++)
             {
                 sortList[i] = Console.ReadLine();
             }
-
+            MergeSort<string> mergeSort = new MergeSort<string>();
+            mergeSort.Sort(sortList, 0, sortList.Length);
             //HeapSort<string> heapSort = new HeapSort<string>();
 
             //InsertionSort<string> insertionSort = new InsertionSort<string>();
             //insertionSort.Sort<string>(sortList);
 
-            QuickSort<string> quickSort = new QuickSort<string>();
-            quickSort.Sort(sortList, 0, sortList.Length - 1);
+            //QuickSort<string> quickSort = new QuickSort<string>();
+            //quickSort.Sort(sortList, 0, sortList.Length - 1);
 
-            //heapSort.Sort(sortList, 2);
+            //heapSort.Sort(sortList);
             Console.WriteLine("----------------------------------------------");
 
             for (int i = 0; i < sortList.Length; i++)
@@ -78,6 +80,23 @@ namespace Start
             //Console.WriteLine("------------------------------------------");
             //Console.WriteLine("Final List:");
             //linkedList.Print();
+
+            //Graph<string> g = new Graph<string>(true, 4);
+
+            //g.InsertEdge(0, 1);
+            //g.InsertEdge(0, 2);
+            //g.InsertEdge(1, 2);
+            //g.InsertEdge(2, 0);
+            //g.InsertEdge(2, 3);
+            //g.InsertEdge(3, 3);
+
+            //Console.Write("Following is Breadth First " +
+            //      "Traversal(starting from " +
+            //      "vertex 2)\n");
+
+            //g.DFS(2);
+
+            Console.ReadKey();
         }
     }
 }

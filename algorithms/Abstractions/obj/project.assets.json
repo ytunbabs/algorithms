@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/owo/.nuget/packages/": {}
+    "/Users/powowa-777/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/owo/repo/algorithms/Algorithms/Abstractions/Abstractions.csproj",
+      "projectUniqueName": "/Users/powowa-777/repo/algorithms/algorithms/Abstractions/Abstractions.csproj",
       "projectName": "Abstractions",
-      "projectPath": "/Users/owo/repo/algorithms/Algorithms/Abstractions/Abstractions.csproj",
-      "packagesPath": "/Users/owo/.nuget/packages/",
-      "outputPath": "/Users/owo/repo/algorithms/Algorithms/Abstractions/obj/",
+      "projectPath": "/Users/powowa-777/repo/algorithms/algorithms/Abstractions/Abstractions.csproj",
+      "packagesPath": "/Users/powowa-777/.nuget/packages/",
+      "outputPath": "/Users/powowa-777/repo/algorithms/algorithms/Abstractions/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/owo/.config/NuGet/NuGet.Config"
+        "/Users/powowa-777/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.406/RuntimeIdentifierGraph.json"
       }
     }
   }

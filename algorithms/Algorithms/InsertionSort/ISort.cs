@@ -1,8 +1,8 @@
 ﻿using System;
 namespace Algorithms.InsertionSort
 {
-    public interface ISort
+    public interface ISort<T>
     {
-        void Sort<T>(T[] sortList);
+        void Sort(T[] sortList);
     }
 }

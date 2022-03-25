@@ -5750,19 +5750,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/owo/.nuget/packages/": {}
+    "/Users/powowa-777/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/owo/repo/algorithms/Algorithms/CommonAlgorithmsTest/CommonAlgorithmsTest.csproj",
+      "projectUniqueName": "/Users/powowa-777/repo/algorithms/algorithms/CommonAlgorithmsTest/CommonAlgorithmsTest.csproj",
       "projectName": "CommonAlgorithmsTest",
-      "projectPath": "/Users/owo/repo/algorithms/Algorithms/CommonAlgorithmsTest/CommonAlgorithmsTest.csproj",
-      "packagesPath": "/Users/owo/.nuget/packages/",
-      "outputPath": "/Users/owo/repo/algorithms/Algorithms/CommonAlgorithmsTest/obj/",
+      "projectPath": "/Users/powowa-777/repo/algorithms/algorithms/CommonAlgorithmsTest/CommonAlgorithmsTest.csproj",
+      "packagesPath": "/Users/powowa-777/.nuget/packages/",
+      "outputPath": "/Users/powowa-777/repo/algorithms/algorithms/CommonAlgorithmsTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/owo/.config/NuGet/NuGet.Config"
+        "/Users/powowa-777/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5774,8 +5774,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/owo/repo/algorithms/Algorithms/Common/CommonAlgorithms.csproj": {
-              "projectPath": "/Users/owo/repo/algorithms/Algorithms/Common/CommonAlgorithms.csproj"
+            "/Users/powowa-777/repo/algorithms/algorithms/Common/CommonAlgorithms.csproj": {
+              "projectPath": "/Users/powowa-777/repo/algorithms/algorithms/Common/CommonAlgorithms.csproj"
             }
           }
         }
@@ -5822,7 +5822,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.406/RuntimeIdentifierGraph.json"
       }
     }
   }

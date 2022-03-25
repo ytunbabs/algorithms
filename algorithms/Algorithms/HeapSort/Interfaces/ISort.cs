@@ -1,8 +1,8 @@
 ﻿using System;
 namespace Algorithms.HeapSort.Interfaces
 {
-    public interface ISort
+    public interface ISort<T>
     {
-        void Sort<T>(T[] sortList, int heapSize);
+        void Sort(T[] sortList);
     }
 }

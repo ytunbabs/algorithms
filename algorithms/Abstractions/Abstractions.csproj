@@ -15,9 +15,13 @@
     <Folder Include="Graph\Models\" />
     <Folder Include="Stack\" />
     <Folder Include="Stack\Interfaces\" />
+    <Folder Include="Queue\" />
+    <Folder Include="Queue\Interfaces\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Stack\" />
     <None Remove="Stack\Interfaces\" />
+    <None Remove="Queue\" />
+    <None Remove="Queue\Interfaces\" />
   </ItemGroup>
 </Project>

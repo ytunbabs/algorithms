@@ -5,7 +5,7 @@ namespace CommonAlgorithms
 {
     public class InfixCalculation
     {
-        private Stack<string> _stack;
+        //private Stack<string> _stack;
 
         public InfixCalculation()
         {

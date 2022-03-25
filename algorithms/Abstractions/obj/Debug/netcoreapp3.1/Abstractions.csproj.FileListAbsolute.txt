@@ -7,3 +7,12 @@
 /Users/owo/repo/algorithms/Algorithms/Abstractions/obj/Debug/netcoreapp3.1/Abstractions.csproj.CoreCompileInputs.cache
 /Users/owo/repo/algorithms/Algorithms/Abstractions/obj/Debug/netcoreapp3.1/Abstractions.dll
 /Users/owo/repo/algorithms/Algorithms/Abstractions/obj/Debug/netcoreapp3.1/Abstractions.pdb
+/Users/powowa-777/repo/algorithms/algorithms/Abstractions/bin/Debug/netcoreapp3.1/Abstractions.deps.json
+/Users/powowa-777/repo/algorithms/algorithms/Abstractions/bin/Debug/netcoreapp3.1/Abstractions.dll
+/Users/powowa-777/repo/algorithms/algorithms/Abstractions/bin/Debug/netcoreapp3.1/Abstractions.pdb
+/Users/powowa-777/repo/algorithms/algorithms/Abstractions/obj/Debug/netcoreapp3.1/Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/powowa-777/repo/algorithms/algorithms/Abstractions/obj/Debug/netcoreapp3.1/Abstractions.AssemblyInfoInputs.cache
+/Users/powowa-777/repo/algorithms/algorithms/Abstractions/obj/Debug/netcoreapp3.1/Abstractions.AssemblyInfo.cs
+/Users/powowa-777/repo/algorithms/algorithms/Abstractions/obj/Debug/netcoreapp3.1/Abstractions.csproj.CoreCompileInputs.cache
+/Users/powowa-777/repo/algorithms/algorithms/Abstractions/obj/Debug/netcoreapp3.1/Abstractions.dll
+/Users/powowa-777/repo/algorithms/algorithms/Abstractions/obj/Debug/netcoreapp3.1/Abstractions.pdb

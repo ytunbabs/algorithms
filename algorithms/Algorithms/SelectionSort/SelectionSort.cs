@@ -3,13 +3,13 @@ using Algorithms.InsertionSort;
 
 namespace Algorithms.SelectionSort
 {
-    public class SelectionSort<T> : ISort
+    public class SelectionSort<T> : ISort<T>
     {
         public SelectionSort()
         {
         }
 
-        public void Sort<T>(T[] sortList)
+        public void Sort(T[] sortList)
         {
             for(int i=0; i<sortList.Length; i++)
             {

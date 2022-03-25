@@ -11,3 +11,16 @@
 /Users/owo/repo/algorithms/Algorithms/Algorithms/obj/Debug/netcoreapp3.1/Algorithms.csproj.CopyComplete
 /Users/owo/repo/algorithms/Algorithms/Algorithms/obj/Debug/netcoreapp3.1/Algorithms.dll
 /Users/owo/repo/algorithms/Algorithms/Algorithms/obj/Debug/netcoreapp3.1/Algorithms.pdb
+/Users/powowa-777/repo/algorithms/algorithms/Algorithms/bin/Debug/netcoreapp3.1/Algorithms.deps.json
+/Users/powowa-777/repo/algorithms/algorithms/Algorithms/bin/Debug/netcoreapp3.1/Algorithms.dll
+/Users/powowa-777/repo/algorithms/algorithms/Algorithms/bin/Debug/netcoreapp3.1/Algorithms.pdb
+/Users/powowa-777/repo/algorithms/algorithms/Algorithms/bin/Debug/netcoreapp3.1/Abstractions.dll
+/Users/powowa-777/repo/algorithms/algorithms/Algorithms/bin/Debug/netcoreapp3.1/Abstractions.pdb
+/Users/powowa-777/repo/algorithms/algorithms/Algorithms/obj/Debug/netcoreapp3.1/Algorithms.csproj.AssemblyReference.cache
+/Users/powowa-777/repo/algorithms/algorithms/Algorithms/obj/Debug/netcoreapp3.1/Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/powowa-777/repo/algorithms/algorithms/Algorithms/obj/Debug/netcoreapp3.1/Algorithms.AssemblyInfoInputs.cache
+/Users/powowa-777/repo/algorithms/algorithms/Algorithms/obj/Debug/netcoreapp3.1/Algorithms.AssemblyInfo.cs
+/Users/powowa-777/repo/algorithms/algorithms/Algorithms/obj/Debug/netcoreapp3.1/Algorithms.csproj.CoreCompileInputs.cache
+/Users/powowa-777/repo/algorithms/algorithms/Algorithms/obj/Debug/netcoreapp3.1/Algorithms.csproj.CopyComplete
+/Users/powowa-777/repo/algorithms/algorithms/Algorithms/obj/Debug/netcoreapp3.1/Algorithms.dll
+/Users/powowa-777/repo/algorithms/algorithms/Algorithms/obj/Debug/netcoreapp3.1/Algorithms.pdb
